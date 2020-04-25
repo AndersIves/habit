@@ -9,7 +9,3 @@
 1. 将打包的jar包拷贝至`.../habit/docker/`下，命名为`habit.jar`
 
 1. 执行`run.sh`部署脚本
-
-# Deploying
-
-[部署](./docker/README.md)

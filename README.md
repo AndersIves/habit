@@ -8,13 +8,13 @@ docker部署
 
 ## Building the Application
 
-[前端（移动端）](./flutter/README.md)
+[前端（移动端）](./flutter)
 
-[后端（服务端）](./springboot/README.md)
+[后端（服务端）](./springboot)
 
 ## Deploying
 
-[部署](./docker/README.md)
+[部署](./docker)
 
 ## Contributing 
 

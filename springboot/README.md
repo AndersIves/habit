@@ -9,3 +9,7 @@
 + 配置Maven
 
 + 执行`build.sh`构建脚本
+
+## Deploying
+
+[部署](../docker)
