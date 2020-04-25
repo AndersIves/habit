@@ -1,0 +1,24 @@
+spring:
+  jackson:
+    time-zone: Asia/Shanghai
+  mail:
+    host: smtp.aliyun.com
+    username: habit_former@aliyun.com
+    password: "Yhnjik,lp981013"
+    port: 465
+
+  data:
+    mongodb:
+#      uri: mongodb://localhost:27017/habit
+      uri: mongodb://mongo:27017/habit
+
+  datasource:
+    type: com.mysql.cj.jdbc.MysqlDataSource
+    driver-class-name: com.mysql.cj.jdbc.Driver
+#    url: jdbc:mysql://localhost:3306/habit
+    url: jdbc:mysql://mysql:3306/habit
+    username: root
+    password: root
+
+server:
+  port: 80
