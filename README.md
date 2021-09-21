@@ -7,6 +7,7 @@
 采用Flutter+SpringBoot开发
 
 docker部署
+[论文终稿](./本科毕业论文_张子玄_R4.pdf)
 
 ## Building the Application
 
