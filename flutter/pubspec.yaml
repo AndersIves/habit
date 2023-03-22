@@ -23,7 +23,7 @@ dependencies:
   sqflite: ^1.1.0 # 数据库
   flutter_local_notifications: ^1.4.1 # 本地消息推送
   shared_preferences: ^0.5.6 # 键值对存储
-  dio: ^3.0.8 # 请求
+  dio: ">=3.0.8 <6.0.0" # 请求
   fl_chart: ^0.8.1 # 图表
   image_picker: ^0.6.3+4 # 相机、相册
   image_crop: ^0.3.2 # 图片裁剪
